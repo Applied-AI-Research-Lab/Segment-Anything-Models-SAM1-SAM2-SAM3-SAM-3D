@@ -24,10 +24,10 @@ If you find our work useful in your research, please consider citing:
 - [Paper List](#paper-list)
   - [Seminal Papers](#seminal-papers)
   - [Follow-up Papers](#follow-up-papers)
-    - [2026](#2026)
-    - [2025](#2025)
-    - [2024](#2024)
-    - [2023](#2023)
+    - [2026](Paper_List/paper_list_2026.md)
+    - [2025](Paper_List/paper_list_2025.md)
+    - [2024](Paper_List/paper_list_2024.md)
+    - [2023](Paper_List/paper_list_2023.md)
 
 ## Paper List
 
